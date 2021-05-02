@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    h1.miclase esto es un título
+    h1.miclase esto es un título más
 
     
     #t_3_1.pb-5.h2 tema 3.1
